@@ -1,48 +1,41 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  princeps091@gmail.com <br> mobile: +47 48681884 <br> Nationality: French
 </span>
 
-# Casualwriter  
+# Vipin Kumar  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* 10 years data analysis/Bioinformatics experience
+* Algorithm and pipeline development
+* Project management and development
+* Proficient in Python and R
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Post-doctoral fellow (NCMM, Universitet i Oslo, 2019/12 - present) 
 
 * Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
 * Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Research assistant (RIKEN BDR, Osaka JAPAN, 2018/12 - 2019/11) 
 
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+## Publications: 
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
-
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* [Highthroughput data clustering]([https://github.com/casualwriter/powerpage](https://doi.org/10.1093/nar/gkaa004)) - Vipin Kumar, Simon Leclerc, Yuichi Taniguchi, BHi-Cect: a top-down algorithm for identifying the multi-scale hierarchical structure of chromosomes, Nucleic Acids Research, Volume 48, Issue 5, 18 March 2020, Page e26, 
+* [Open science database development](https://doi.org/10.1093/nar/gkad1059) - JASPAR 2024: 20th anniversary of the open-access database of transcription factor binding profiles, Nucleic Acids Research, Volume 52, Issue D1, 5 January 2024, Pages D174–D182,
+* [Integrating Spectroscopy with Transcriptomics](https://doi.org/10.1016/j.bpj.2019.11.2002.) - Germond, Arno, Vipin Kumar, Taro Ichimura, Takaaki Horinouchi, Tomonobu Watanabe, and Chikara Furusawa. 2020. “Toward Predicting Gene Expression and Metabolic Functions from Label-Free Raman Imaging of Living Cells.” Biophysical Journal.
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
-
+* PhD Bioinformatics University of Copenhagen, Denmark/BDR RIKEN Osaka Japan
+* MSc Bioinformatics University of Copenhagen, Denmark
+* MA (Cantab)/BA Natural Sciences, (2009-2012), University of Cambridge
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: English (fluent), French (fluent/native), Norweigan (beginner)
