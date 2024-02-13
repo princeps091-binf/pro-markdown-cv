@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  princeps091@gmail.com <br> mobile: +47 48681884 <br> Nationality: French
+  princeps091@gmail.com <br> LinkedIn: www.linkedin.com/in/vipin-kumar-bioinfo <br> mobile: +47 48681884 <br> Nationality: French
 </span>
 
 # Vipin Kumar  
@@ -18,7 +18,7 @@
 #### Post-doctoral fellow (NCMM, Universitet i Oslo, 2019/12 - present) 
 
 * Designed and implemented multiple projects integrating various kinds of technologies and data types
-* Developped original algorithms, pipelines, computational routines to inform experimental validation
+* Developped original algorithms, pipelines (snakemake), computational routines to inform experimental validation
 * Secured EU-funding to realise the project
 * Supervised intern to implement code optimisation and feature extension
 
