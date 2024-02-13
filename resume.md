@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="me_photoshoot.jpeg" />
 
 <span style="float:right;padding:6px"> 
   princeps091@gmail.com <br> LinkedIn: www.linkedin.com/in/vipin-kumar-bioinfo <br> mobile: +47 48681884 <br> Nationality: French
